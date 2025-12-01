@@ -176,8 +176,13 @@ Deploy easily using **Vercel**, which is preconfigured via `vercel.json`.
 
 ---
 
-## 🧑‍💻 **Contributing**
+## 👨‍💻 Author
 
-Contributions are welcome!
-Feel free to open issues or submit pull requests.
+**Mehedi Hasan Shahed**
+
+* **Email:** [mehedihasanshahed3@gmail.com](mailto:mehedihasanshahed3@gmail.com)
+
+* **LinkedIn:** [Mehedi Hasan Shahed](https://www.linkedin.com/in/mehedi-hasan-153404287/)
+
+💼 Software Developer | Web Engineer
 
