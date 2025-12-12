@@ -19,7 +19,7 @@ const parser = new UAParser();
 export const storeClicks = async ({ id, originalUrl }) => {
   try {
     const res = parser.getResult();
-    const device = res.type || "desktop"; // Default to desktop if type is not detected
+    const device = res.device.type || "desktop"; 
 
     const response = await fetch("https://ipwho.is/");
     const { city, country } = await response.json();
